@@ -1,0 +1,1 @@
+A Mini Pythonn Project where it focusses on saving , time , energy and cost for BMTC CORPARATION where this software helps them to tend tickets to the passengers by providing or showcasing all the busses that arrives to a particular bus stop , according to thier needs , they can select thier bus and add the detailss to procced and obtain ticket before entering the bus
